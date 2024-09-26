@@ -1,5 +1,3 @@
-// src/examples/example-app.js
-
 import { KJS } from '../kjs.js';
 
 // Define a simple component
