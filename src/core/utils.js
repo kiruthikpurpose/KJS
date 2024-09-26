@@ -1,5 +1,3 @@
-// src/core/utils.js
-
 /**
  * Debounces a function to limit the rate at which it can fire.
  * @param {Function} func - The function to debounce.
