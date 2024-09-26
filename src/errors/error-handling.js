@@ -1,5 +1,3 @@
-// error-handling.js
-
 // Custom KJS Error Class
 class KJSError extends Error {
     constructor(message, component) {
