@@ -1,5 +1,3 @@
-// kjs.js
-
 import { VNode, createElement, render, diff, patch } from './vdom.js';
 import { reactive } from './reactivity.js';
 import { Router } from './router.js';
